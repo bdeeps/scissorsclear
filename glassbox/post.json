@@ -1,0 +1,126 @@
+{
+  "slug": "scissorsclear",
+  "box": 141,
+  "question": "How do scissors work?",
+  "url": "https://glassbox.how/e/scissorsclear/",
+  "app": "https://glassbox.how/scissorsclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "About 3,000 years from one bent strip of bronze to orange handles and a protected craft in Meerut.\n\n1500 BCE: Shears made from one bent strip of bronze\n100: Two blades cross on a pivot\n1653: Meerut starts making scissors\n1663: Zhang Xiaoquan of Hangzhou\n1761: Hard, polished cast-steel scissors\n1893: Louise Austin patents pinking shears\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/scissorsclear/history (link in bio)\n\nThen play with how it works: glassbox.how/scissorsclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #scissors #shears #lever #mechanicaladvantage #shear #simplemachines #history",
+      "youtube": {
+        "title": "The history of scissors in 45 seconds #shorts",
+        "description": "About 3,000 years from one bent strip of bronze to orange handles and a protected craft in Meerut.\n\n1500 BCE · Shears made from one bent strip of bronze (Bronze Age metalworkers)\n100 · Two blades cross on a pivot (Roman smiths)\n1653 · Meerut starts making scissors (Asli Akhun, by tradition)\n1663 · Zhang Xiaoquan of Hangzhou (Zhang Sijia and his son Zhang Xiaoquan)\n1761 · Hard, polished cast-steel scissors (Robert Hinchliffe (also spelled Hinchcliffe))\n1893 · Louise Austin patents pinking shears (Louise Austin)\n\n▶ Full history: https://glassbox.how/e/scissorsclear/history/\n▶ Play with it: https://glassbox.how/e/scissorsclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How do scissors work?\n\nYou have used them since nursery school, and they are cleverer than they look. Open up a pair of scissors in 3D: two levers, two edges that pass without meeting, and blades bent on purpose so they touch at one travelling point. Then find out why they fail in a left hand.\n\n→ A pair of scissors is just three parts: two steel halves and one screw.\n→ Each half is a lever, and the pivot screw is its fulcrum.\n→ Squeeze with 20 newtons and the blades push with 100 near the pivot, but only 16 at the tip.\n→ The two edges never meet: they slide past each other and shear the paper between them.\n→ Open a gap wider than the paper and it just folds instead of shearing.\n\nPlay with it yourself. It's free and open source: glassbox.how/scissorsclear (link in bio)\n\nBox No. 141 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #scissors #shears #lever #mechanicaladvantage #shear #simplemachines #lefthanded #tinsnips #pinkingshears",
+    "carousel": "Swipe through: How do scissors work?\n\nYou have used them since nursery school, and they are cleverer than they look. Open up a pair of scissors in 3D: two levers, two edges that pass without meeting, and blades bent on purpose so they touch at one travelling point. Then find out why they fail in a left hand.\n\nSave this for later, then play with the interactive version at glassbox.how/scissorsclear (link in bio).\n\nBox No. 141 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #scissors #shears #lever #mechanicaladvantage #shear #simplemachines",
+    "youtube": {
+      "title": "How do scissors work? #shorts",
+      "description": "You have used them since nursery school, and they are cleverer than they look. Open up a pair of scissors in 3D: two levers, two edges that pass without meeting, and blades bent on purpose so they touch at one travelling point. Then find out why they fail in a left hand.\n\n▶ Play with it: https://glassbox.how/e/scissorsclear/\n⌘ Source code (MIT): https://github.com/bdeeps/scissorsclear\n\nBox No. 141 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How do scissors work? (interactive explainer)",
+      "description": "You have used them since nursery school, and they are cleverer than they look. Open up a pair of scissors in 3D: two levers, two edges that pass without meeting, and blades bent on purpose so they touch at one travelling point. Then find out why they fail in a left hand.\n\n▶ Play with the interactive version: https://glassbox.how/e/scissorsclear/\n⌘ Source code (MIT): https://github.com/bdeeps/scissorsclear\n\nIn this video:\n• Three parts, crossed. A pair of scissors is two steel halves and one pivot screw.\n• Two levers, one fulcrum. Each half is a lever that turns about the pivot.\n• A shear, not a slice. The two edges never meet.\n• One touching point. The blades are slightly bowed and twisted, so they touch only where the edges cross, and that point runs from the pivot to the tip as you cut.\n• Why scissors are handed. A closing hand pushes the thumb handle one way and pulls the finger handle the other.\n• One idea, many tools. Tailor's shears, pinking shears, tin snips, compound snips and secateurs all use the same lever and the same passing edges, reshaped for the job.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How do scissors work?\n\nYou have used them since nursery school, and they are cleverer than they look.\n\nPlay with it: https://glassbox.how/e/scissorsclear/",
+    "linkedin": "How do scissors work?\n\nYou have used them since nursery school, and they are cleverer than they look. Open up a pair of scissors in 3D: two levers, two edges that pass without meeting, and blades bent on purpose so they touch at one travelling point. Then find out why they fail in a left hand.\n\n1. Three parts, crossed\n2. Two levers, one fulcrum\n3. A shear, not a slice\n4. One touching point\n5. Why scissors are handed\n6. One idea, many tools\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 141 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/scissorsclear/\nCode: https://github.com/bdeeps/scissorsclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T10:04:49.014Z"
+}

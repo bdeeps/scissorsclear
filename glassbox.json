@@ -1,0 +1,107 @@
+{
+  "slug": "scissorsclear",
+  "box": 141,
+  "date": "2026-10-08",
+  "title": "ScissorsClear",
+  "question": "How do scissors work?",
+  "hook": "You have used them since nursery school, and they are cleverer than they look. Open up a pair of scissors in 3D: two levers, two edges that pass without meeting, and blades bent on purpose so they touch at one travelling point. Then find out why they fail in a left hand.",
+  "thumbText": "HOW SCISSORS WORK",
+  "field": "machines",
+  "minutes": 12,
+  "tags": [
+    "scissors",
+    "shears",
+    "lever",
+    "mechanical advantage",
+    "shear",
+    "simple machines",
+    "left-handed",
+    "tin snips",
+    "pinking shears",
+    "Meerut scissors",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Three parts, crossed",
+      "text": "A pair of scissors is two steel halves and one pivot screw. Each half is a blade at the front and a handle at the back. The halves cross at the pivot, so the blade that is on top at the tip belongs to the bottom handle, and a squeeze of the hand closes the blades."
+    },
+    {
+      "title": "Two levers, one fulcrum",
+      "text": "Each half is a lever that turns about the pivot. Force at the cut = squeeze × hand distance ÷ cut distance. With the hand 70 mm from the pivot, a cut 14 mm out gets five times your squeeze, and a cut at the tip gets less than you give. That is why tough things go deep into the jaws, and why tin snips have long handles and short blades."
+    },
+    {
+      "title": "A shear, not a slice",
+      "text": "The two edges never meet. They pass each other side by side, pushing the sheet down on one side and up on the other until the thin band between them gives way in shear. Because the edges cross at an angle, only a tiny area is being cut at any instant, so a small force makes a large stress."
+    },
+    {
+      "title": "One touching point",
+      "text": "The blades are slightly bowed and twisted, so they touch only where the edges cross, and that point runs from the pivot to the tip as you cut. The screw and the ride behind it press the edges together there. Loosen the screw and a gap opens. Once the gap is as wide as the paper is thick, the paper folds instead of cutting."
+    },
+    {
+      "title": "Why scissors are handed",
+      "text": "A closing hand pushes the thumb handle one way and pulls the finger handle the other. In the matching hand that presses the edges together. In the other hand it levers them apart, and the top blade also hides the cutting line. True left-handed scissors are a full mirror image."
+    },
+    {
+      "title": "One idea, many tools",
+      "text": "Tailor's shears, pinking shears, tin snips, compound snips and secateurs all use the same lever and the same passing edges, reshaped for the job. Spring shears, the oldest kind, are one bent strip squeezed in the middle: a third-class lever that trades force for movement."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Pivot",
+      "def": "The screw or rivet the two halves turn about. It is the fulcrum of both levers."
+    },
+    {
+      "term": "Lever",
+      "def": "A stiff bar that turns about a fixed point, trading a small force over a long distance for a big force over a short one."
+    },
+    {
+      "term": "Mechanical advantage",
+      "def": "How many times a machine multiplies your force. For scissors it is hand distance ÷ cut distance."
+    },
+    {
+      "term": "Shear",
+      "def": "Sliding one part of a material past the part next to it. Scissors cut by shearing a thin band between two passing edges."
+    },
+    {
+      "term": "Shear stress",
+      "def": "The shearing force divided by the area it acts on. The sheet gives way when it reaches the material's shear strength."
+    },
+    {
+      "term": "Set",
+      "def": "The slight bow and twist put into each blade so that the two blades touch only where the edges cross."
+    },
+    {
+      "term": "Ride",
+      "def": "The small flat behind the pivot where the halves rub. It props them apart there, which presses the edges together in front."
+    },
+    {
+      "term": "Clearance",
+      "def": "The sideways gap between the edges as they pass. A clean cut needs it to be a small fraction of the sheet's thickness."
+    },
+    {
+      "term": "True left-handed scissors",
+      "def": "A full mirror image of right-handed scissors, with the blades swapped over as well as the handles."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "scissorsclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

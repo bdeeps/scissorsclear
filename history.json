@@ -1,0 +1,907 @@
+{
+ "title": "The history of scissors",
+ "tagline": "About 3,000 years from one bent strip of bronze to orange handles and a protected craft in Meerut.",
+ "intro": "The first scissors had no pivot at all. They were one strip of metal bent into a U, with a blade at each end, and you squeezed them like tweezers. Roman, Chinese and Japanese smiths later crossed two blades on a pin, and for centuries both kinds were made one pair at a time. Then better steel in Sheffield, drop hammers in Newark and a plastic handle in Finland turned a smith's treasure into something every pencil case holds.",
+ "eras": [
+  {
+   "id": "spring",
+   "name": "One bent strip",
+   "from": -1500,
+   "to": 100,
+   "color": "#c49bff",
+   "summary": "The oldest shears are a single strip of metal bent into a U. Squeeze and the blades cross. Let go and the bend springs them open again."
+  },
+  {
+   "id": "pivot",
+   "name": "Two blades and a pin",
+   "from": 100,
+   "to": 1600,
+   "color": "#ffb547",
+   "summary": "Smiths in Rome and in East Asia cross two separate blades on a pivot. Spring shears stay common in Europe for another thousand years, and the word 'scissors' enters English."
+  },
+  {
+   "id": "guild",
+   "name": "The cutlers' towns",
+   "from": 1600,
+   "to": 1800,
+   "color": "#ff7a59",
+   "summary": "Scissor making gathers in a few famous towns: Sheffield, Solingen, Hangzhou and Meerut. Crucible steel from Sheffield makes hard, polished blades possible in large numbers."
+  },
+  {
+   "id": "factory",
+   "name": "A shear for every job",
+   "from": 1800,
+   "to": 1945,
+   "color": "#5ce1a9",
+   "summary": "Factories forge scissors by the million, and special kinds appear: secateurs for vines, pinking shears for cloth, surgical scissors, and snips for aircraft metal. Stainless steel stops the rust."
+  },
+  {
+   "id": "modern",
+   "name": "Plastic handles and old crafts",
+   "from": 1945,
+   "to": 2026,
+   "color": "#7aa2ff",
+   "summary": "A moulded orange handle makes good scissors light and cheap. Left-handers finally get mirrored pairs, and old hand-making towns win protection and new fans."
+  }
+ ],
+ "events": [
+  {
+   "year": -1500,
+   "date": "c. 1500 BCE (often said, not firmly dated)",
+   "era": "spring",
+   "art": "spring2",
+   "key": true,
+   "title": "Shears made from one bent strip of bronze",
+   "who": "Bronze Age metalworkers",
+   "where": "Southwest Asia (Mesopotamia) and Egypt",
+   "country": "Iraq",
+   "text": "The oldest kind of scissors is the spring shear: one strip of metal bent into a U, with a blade at each end. Britannica says only that they 'probably date from the Bronze Age'. A textile research centre in Leiden places the first metal shears in Southwest Asia in the second or first millennium BCE. Popular histories give 'Egypt, 1500 BCE' or 'Mesopotamia, 3,000 to 4,000 years ago', but they do not point to a dated object in a museum.",
+   "why": "It is the start of the story, and a good lesson in how a neat date can be repeated without proof.",
+   "box": "kinds",
+   "sources": [
+    1,
+    2,
+    7
+   ]
+  },
+  {
+   "year": -400,
+   "date": "4th century BCE",
+   "era": "spring",
+   "art": "blades",
+   "title": "Iron shears spread across Iron Age Europe",
+   "who": "Mediterranean and Celtic (La Tène) smiths",
+   "where": "Mediterranean lands, northern Italy, Switzerland and central Europe",
+   "country": "Italy",
+   "text": "The earliest shears found in Europe come from the Mediterranean world of the early 4th century BCE. By the end of that century the Celtic La Tène peoples had taken them up. Iron shears were laid in rich men's graves, sometimes treated in the same way as swords. Each pair was two triangular blades on a simple U-shaped spring.",
+   "why": "Iron made a tougher spring and a keener edge, and the same design still shears sheep today.",
+   "box": "kinds",
+   "sources": [
+    5,
+    2
+   ]
+  },
+  {
+   "year": 50,
+   "date": "Han dynasty, 206 BCE to 220 CE",
+   "era": "spring",
+   "art": "scissors",
+   "title": "Scissors in Han China",
+   "who": "Han dynasty smiths",
+   "where": "China",
+   "country": "China",
+   "text": "Scissors survive from Han dynasty China, and a pair is pictured in Wikipedia's article on scissors. Britannica notes that pivoted scissors of bronze and iron were later used in China, Japan and Korea as well as in Rome. Exactly when Chinese smiths moved from the bent strip to the pivot is not something our sources settle.",
+   "why": "Cutting silk and cloth cleanly was a problem solved at both ends of Asia.",
+   "sources": [
+    0,
+    1
+   ]
+  },
+  {
+   "year": 100,
+   "date": "1st to 4th century CE",
+   "era": "spring",
+   "art": "blade",
+   "title": "One Roman tool for sheep, hair, cloth and surgery",
+   "who": "Roman smiths, shepherds, barbers and surgeons",
+   "where": "Roman Empire, from London to Trabzon",
+   "country": "United Kingdom",
+   "text": "London Museum holds a complete pair of Roman iron shears just 131 mm long. The museum says such shears sheared animals, trimmed hair, cut cloth and even cut body tissue in surgery. A far grander bronze pair, inlaid with animals and said to come from Trabzon in Turkey, is thought to date from about the 2nd century CE.",
+   "why": "Shears had become an everyday tool, and for some owners a showpiece.",
+   "box": "kinds",
+   "sources": [
+    3,
+    4,
+    0
+   ]
+  },
+  {
+   "year": 100,
+   "date": "c. 100 CE (often said)",
+   "era": "pivot",
+   "art": "scissors",
+   "key": true,
+   "title": "Two blades cross on a pivot",
+   "who": "Roman smiths",
+   "where": "Roman Empire",
+   "country": "Italy",
+   "text": "At some point smiths stopped bending one strip and instead crossed two separate blades on a pin. Britannica records pivoted scissors of bronze and iron in ancient Rome. Many popular histories give 'about 100 CE', but that exact date is a rounded guess. Each blade is now a lever, and the pin is the fulcrum.",
+   "why": "This is the scissors we know: move the pivot or lengthen the handles and you change the force.",
+   "box": "lever",
+   "sources": [
+    1,
+    6,
+    7
+   ]
+  },
+  {
+   "year": 1250,
+   "date": "c. 13th century (about 700 years ago)",
+   "era": "pivot",
+   "art": "boat",
+   "title": "A merchant carries scissors from China to Japan",
+   "who": "Mei Shakoku (Sha Kokumei)",
+   "where": "Hakata (today Fukuoka), Japan",
+   "country": "Japan",
+   "text": "Hakata tradition says a merchant who moved from Southern Song China brought scissors with him about 700 years ago. They were called tobasami, 'Chinese scissors'. In the Edo period the swordsmith Usuke Yasukochi gave them the shape they still have. His pupil Kamekichi Takayanagi set up on his own in 1887 and renamed them Hakata hasami.",
+   "why": "It shows the pivoted scissor travelling across Asia by trade, and a single family still makes them.",
+   "sources": [
+    8
+   ]
+  },
+  {
+   "year": 1380,
+   "date": "Late 14th century",
+   "era": "pivot",
+   "art": "word",
+   "title": "English gets the word 'scissors'",
+   "who": "English and French speakers",
+   "where": "England",
+   "country": "United Kingdom",
+   "text": "The word arrived in English in the late 1300s as 'sisoures' or 'cisours', from Old French cisoires, meaning shears. That came from Latin cisoria, a cutting tool, from caedere, 'to cut'. The 'sc' spelling appeared in the 16th century, when writers mixed it up with Latin scissor, a tailor, from the unrelated verb scindere, 'to split'.",
+   "why": "The silent 'c' in scissors is a 500-year-old spelling mistake.",
+   "sources": [
+    40,
+    0
+   ]
+  },
+  {
+   "year": 1500,
+   "date": "c. 1500",
+   "era": "pivot",
+   "art": "person",
+   "title": "The Leonardo myth",
+   "who": "Leonardo da Vinci (wrongly credited)",
+   "where": "Italy",
+   "country": "Italy",
+   "text": "Many websites say Leonardo da Vinci invented scissors. He did not. Shears and pivoted scissors are well over a thousand years older than he is. One science writer calls it possibly the most widespread myth about him. He may have drawn or used scissors, but that is all.",
+   "why": "Famous names attract inventions they never made, so check the dates.",
+   "sources": [
+    6,
+    1
+   ]
+  },
+  {
+   "year": 1550,
+   "date": "16th century",
+   "era": "pivot",
+   "art": "hammer",
+   "title": "Pivoted scissors come into the home",
+   "who": "European cutlers",
+   "where": "Solingen, Premana, Thiers and other cutlery towns",
+   "country": "Germany",
+   "text": "Spring shears were still the usual cloth cutter in Europe until the end of the Middle Ages. Britannica dates the home use of pivoted scissors in Europe to the 16th century. Blade towns were already at work: Solingen in Germany since medieval times, and Premana in the Italian Alps with ironworks and knife making from the 16th century.",
+   "why": "The pivot took more than a thousand years to replace the spring in ordinary homes.",
+   "box": "anatomy",
+   "sources": [
+    1,
+    0
+   ]
+  },
+  {
+   "year": 1624,
+   "date": "1624",
+   "era": "guild",
+   "art": "building",
+   "title": "Sheffield's cutlers get their own company",
+   "who": "Company of Cutlers in Hallamshire",
+   "where": "Sheffield, England",
+   "country": "United Kingdom",
+   "text": "An Act of Parliament set up the Company of Cutlers in Hallamshire in 1624. It governed makers of 'Knives, Blades, Scissers, Sheeres, Sickles' and other cutlery in and around Sheffield. Its head is still called the Master Cutler. In 2011 Pamela Liversidge became the first woman to hold the post.",
+   "why": "A guild set standards and marks, which is how a town's name becomes a promise of quality.",
+   "sources": [
+    10
+   ]
+  },
+  {
+   "year": 1653,
+   "date": "c. 1653 (local tradition)",
+   "era": "guild",
+   "art": "scissors",
+   "key": true,
+   "title": "Meerut starts making scissors",
+   "who": "Asli Akhun, by tradition",
+   "where": "Meerut, Uttar Pradesh, India",
+   "country": "India",
+   "text": "Local tradition says a smith named Asli Akhun made the first Meerut scissors around 1653. One telling gives 1654 and says he joined two sword blades to cut leather. No document from the time confirms it. What is certain is that Meerut's Kainchi Bazaar has made scissors for more than 300 years.",
+   "why": "It is the root of India's only scissors cluster, older than most European scissor firms.",
+   "sources": [
+    35,
+    38
+   ]
+  },
+  {
+   "year": 1663,
+   "date": "1663 (brand said to date from 1628)",
+   "era": "guild",
+   "art": "scissors",
+   "key": true,
+   "title": "Zhang Xiaoquan of Hangzhou",
+   "who": "Zhang Sijia and his son Zhang Xiaoquan",
+   "where": "Hangzhou, China",
+   "country": "China",
+   "text": "Zhang Sijia learned scissor making in Wuhu, and his son Zhang Xiaoquan built the business in Hangzhou. Sources give the brand's start as 1628, and 1663 as the year the shop took the name 'Zhang Xiaoquan Jinji'. The scissors were later presented to the Qing court and won a silver medal at the 1915 Panama-Pacific Exposition. The traditional method counts 72 steps.",
+   "why": "It is one of the oldest scissor makers in the world that is still working.",
+   "box": "shear",
+   "sources": [
+    9,
+    0
+   ]
+  },
+  {
+   "year": 1731,
+   "date": "13 June 1731",
+   "era": "guild",
+   "art": "share",
+   "title": "The twins of Solingen",
+   "who": "Peter Henckels",
+   "where": "Solingen, Germany",
+   "country": "Germany",
+   "text": "Knife maker Peter Henckels registered a twin symbol, 'Zwilling' in German, with the Cutlers' Guild of Solingen on 13 June 1731. It is one of the oldest trademarks still in use. Solingen is known as the City of Blades, and the scissor maker Friedrich Herder had started there in 1727.",
+   "why": "A registered mark told buyers far away which workshop a blade came from.",
+   "sources": [
+    11,
+    0
+   ]
+  },
+  {
+   "year": 1740,
+   "date": "c. 1740",
+   "era": "guild",
+   "art": "flame",
+   "title": "Steel melted in a clay pot",
+   "who": "Benjamin Huntsman",
+   "where": "Handsworth, near Sheffield, England",
+   "country": "United Kingdom",
+   "text": "Clockmaker Benjamin Huntsman wanted better steel for springs. Around 1740 he melted steel in clay crucibles over a coke fire for about three hours and poured it out as even, clean 'cast steel'. Sheffield's cutlers first refused it because it was harder to work, so he sold it to France. When fine French cutlery made from it came back, they changed their minds.",
+   "why": "Even steel takes a fine edge and a mirror polish, which is exactly what a scissor blade needs.",
+   "box": "shear",
+   "sources": [
+    12
+   ]
+  },
+  {
+   "year": 1760,
+   "date": "1760",
+   "era": "guild",
+   "art": "scissors",
+   "title": "William Whiteley & Sons",
+   "who": "The Whiteley family",
+   "where": "Sheffield, England",
+   "country": "United Kingdom",
+   "text": "William Whiteley & Sons dates itself to 1760 and has been in Sheffield since 1787. It received a royal warrant in 1840 and calls itself the oldest scissor maker in the Western world. The firm's own history says Thomas Wilkinson, whose business it absorbed, invented 'sidebent' tailor's shears, with handles cranked upward so the lower blade can lie flat on the table.",
+   "why": "Tailor's shears still have that bent handle, so cloth stays flat while you cut.",
+   "box": "kinds",
+   "sources": [
+    15
+   ]
+  },
+  {
+   "year": 1761,
+   "date": "1761",
+   "era": "guild",
+   "art": "scissors",
+   "key": true,
+   "title": "Hard, polished cast-steel scissors",
+   "who": "Robert Hinchliffe (also spelled Hinchcliffe)",
+   "where": "Sheffield, England",
+   "country": "United Kingdom",
+   "text": "In 1761 Robert Hinchliffe of Sheffield made the first scissors of cast steel, hardened and polished. One story says he made them to impress a woman he hoped to marry. The hard part was the finger bows: he first made them solid, then drilled and filed out the holes. He was the first to advertise as a 'fine scissors manufacturer'. Britannica dates large-scale scissor production from this point.",
+   "why": "Modern scissors begin here: hard steel blades with a bright, smooth finish.",
+   "box": "shear",
+   "sources": [
+    13,
+    1,
+    0
+   ]
+  },
+  {
+   "year": 1765,
+   "date": "c. 1760s",
+   "era": "guild",
+   "art": "person",
+   "title": "Left-handed scissors, made for their maker",
+   "who": "Robert Hinchliffe",
+   "where": "Sheffield, England",
+   "country": "United Kingdom",
+   "text": "An old Sheffield history credits Hinchliffe as 'the first maker of the left-handed scissors, an article suited to his own convenience'. So the earliest recorded left-handed pair was made by a left-hander for himself. The account does not say how his blades were arranged, so we cannot be sure they were fully mirrored.",
+   "why": "In true left-handed scissors the blades are swapped over, not just the handles, so a left hand pushes the edges together.",
+   "box": "hands",
+   "sources": [
+    14,
+    13,
+    0
+   ]
+  },
+  {
+   "year": 1814,
+   "date": "c. 1814 to 1818",
+   "era": "factory",
+   "art": "leaf",
+   "title": "Secateurs for the vineyard",
+   "who": "Antoine-François Bertrand de Molleville (credited)",
+   "where": "France",
+   "country": "France",
+   "text": "The French aristocrat Bertrand de Molleville, who had fled to Britain during the Revolution, is credited with inventing the secateur. Accounts say he brought it to France on his return in 1814, and it appears in the gardening almanac Le Bon Jardinier in the 1810s. Vine workers hated it at first. Around 1840, hundreds marched in a French town against swapping their pruning knives for it.",
+   "why": "A scissor with one curved blade and a spring could prune a vine several times faster than a knife.",
+   "box": "kinds",
+   "sources": [
+    17,
+    16
+   ]
+  },
+  {
+   "year": 1848,
+   "date": "1848",
+   "era": "factory",
+   "art": "hammer",
+   "title": "A Swiss cutler opens shop in Newark",
+   "who": "Jacob Wiss",
+   "where": "Newark, New Jersey, USA",
+   "country": "United States",
+   "text": "Jacob Wiss, a Swiss cutler and gunsmith, started a cutlery business in Newark in 1848. In 1906 J. Wiss & Sons installed power drop hammers and developed its 'inlaid' process, welding a hard steel edge onto a tougher forged frame. In 1914 it bought its rival R. Heinisch Sons and became the largest maker of fine scissors and shears in the world.",
+   "why": "Drop forging stamped out strong scissor blanks quickly, so good shears no longer had to be hammered one at a time.",
+   "box": "shear",
+   "sources": [
+    20,
+    21
+   ]
+  },
+  {
+   "year": 1876,
+   "date": "1870s",
+   "era": "factory",
+   "art": "blade",
+   "title": "Japan's swordsmiths turn to shears",
+   "who": "Japanese swordsmiths",
+   "where": "Tokyo, Japan",
+   "country": "Japan",
+   "text": "In the 1870s Japan's new Meiji government banned the wearing of swords, and most swordsmiths had to make tools and kitchen blades instead. They kept their method: a soft iron body with hard steel along the cutting edge. Western tailor's shears, imported early in the Meiji era, were reworked for Japanese hands as 'rasha' cloth shears, the model for today's tachibasami.",
+   "why": "Sword-making skill moved into scissors, which is why Japanese shears are prized for sharpness.",
+   "box": "shear",
+   "sources": [
+    26,
+    8,
+    0
+   ]
+  },
+  {
+   "year": 1893,
+   "date": "3 January 1893",
+   "era": "factory",
+   "art": "scissors",
+   "key": true,
+   "title": "Louise Austin patents pinking shears",
+   "who": "Louise Austin",
+   "where": "Whatcom, Washington, USA",
+   "country": "United States",
+   "text": "Louise Austin of Whatcom, Washington, filed for a patent on 'pinking-shears' on 16 June 1892. US patent 489,406 was granted on 3 January 1893. Her blades had matching teeth and hollows, so one squeeze cut a neat wavy or zigzag edge. A zigzag does not stop cloth fraying, but it keeps each loose thread short.",
+   "why": "It turned slow hand work with a punch into one quick cut.",
+   "box": "kinds",
+   "sources": [
+    23,
+    22
+   ]
+  },
+  {
+   "year": 1910,
+   "date": "Early 20th century",
+   "era": "factory",
+   "art": "heart",
+   "title": "Scissors designed for surgeons",
+   "who": "Surgeons of the Mayo Clinic; Myron Metzenbaum",
+   "where": "Rochester, Minnesota, and Cleveland, Ohio, USA",
+   "country": "United States",
+   "text": "Mayo scissors, developed at the Mayo Clinic, have thick blades and semi-blunt tips for cutting tough tissue and stitches. Metzenbaum scissors, designed by the surgeon Myron Metzenbaum (1876 to 1944), are for delicate work. They have long shanks and short blades with rounded tips. Our sources do not give exact years for either design.",
+   "why": "Long handles and short blades give a surgeon fine control at the tip: lever arithmetic in an operating theatre.",
+   "box": "lever",
+   "sources": [
+    30,
+    31
+   ]
+  },
+  {
+   "year": 1913,
+   "date": "13 August 1913",
+   "era": "factory",
+   "art": "flask",
+   "key": true,
+   "title": "Steel that does not rust",
+   "who": "Harry Brearley",
+   "where": "Sheffield, England",
+   "country": "United Kingdom",
+   "text": "At the Brown Firth Laboratories in Sheffield, Harry Brearley was looking for a steel that would resist wear in gun barrels. On 13 August 1913 he cast an alloy with about 12.8% chromium and 0.24% carbon, and found that it resisted acids such as vinegar and lemon juice. He called it 'rustless steel'. Ernest Stuart of the cutlery firm R. F. Mosley suggested the name 'stainless'.",
+   "why": "Most scissors today are stainless steel, so they can be washed and left in a damp drawer.",
+   "box": "shear",
+   "sources": [
+    27
+   ]
+  },
+  {
+   "year": 1934,
+   "date": "Patents filed 1931 to 1932, granted 1934",
+   "era": "factory",
+   "art": "scissors",
+   "title": "Pinking shears for every sewing box",
+   "who": "Samuel Briskman, with Felix Wyner and Edward Schulz; J. Wiss & Sons",
+   "where": "New York and Newark, USA",
+   "country": "United States",
+   "text": "Three US patents of 1934 for pinking shears and how to make them were assigned to Samuel Briskman of New York. The best known, number 1,965,443, names Felix Wyner and Edward Schulz as the inventors. Wiss began selling pinking shears in the early 1930s. It made its four millionth pair in 1949, and about 20 million had been sold by 1955.",
+   "why": "Austin had the idea, but precise machine-cut teeth made pinking shears cheap enough for home sewing.",
+   "box": "kinds",
+   "sources": [
+    24,
+    25,
+    20,
+    22
+   ]
+  },
+  {
+   "year": 1939,
+   "date": "1930s (Wiss MetalMaster, 1939)",
+   "era": "factory",
+   "art": "plane",
+   "title": "Snips with a second lever",
+   "who": "Aircraft sheet-metal workers and tool makers such as Wiss",
+   "where": "USA",
+   "country": "United States",
+   "text": "Ordinary tin snips are scissors with long handles and short, thick blades. Compound-action snips add a second pivot, so the handles drive the blades through a linkage and multiply the force again. They were first developed to cut aluminium for aircraft, which is why they are called aviation snips. Wiss introduced its MetalMaster compound snip in 1939. We found no reliable record of a single inventor.",
+   "why": "Two levers in a row let a hand cut sheet metal that plain snips cannot.",
+   "box": "lever",
+   "sources": [
+    28,
+    20
+   ]
+  },
+  {
+   "year": 1945,
+   "date": "1945 (Felco 2 in 1948)",
+   "era": "modern",
+   "art": "leaf",
+   "title": "Secateurs you can repair for life",
+   "who": "Félix Flisch",
+   "where": "Les Geneveys-sur-Coffrane, Switzerland",
+   "country": "Switzerland",
+   "text": "Engineer Félix Flisch bought an old watch-dial factory in the Swiss Jura in 1945 and founded Felco. He made pruning shears with light aluminium handles and cutting parts that could be swapped when worn. The Felco 2 came out in 1948. The company says more than 19 million have been sold. Anvil pruners, where one blade closes onto a flat block, had come earlier, from Walther Schröder in Kiel, Germany, in 1923.",
+   "why": "Replaceable blades meant a tool was no longer scrap once it had been sharpened away.",
+   "box": "kinds",
+   "sources": [
+    29,
+    16
+   ]
+  },
+  {
+   "year": 1959,
+   "date": "15 December 1959",
+   "era": "modern",
+   "art": "person",
+   "title": "Left-handed shears reach the patent office",
+   "who": "Samuel Briskman's company; later Fiskars",
+   "where": "USA and Finland",
+   "country": "United States",
+   "text": "US patent 2,916,822 for 'Left-Handed Pinking Shears' was filed on 31 March 1959 and granted on 15 December 1959. Fiskars later said it was the first company to mass-produce left-handed scissors, marked by red handles, but it does not give the year. We found no firm date for the first true left-handed scissors sold in shops.",
+   "why": "About one person in ten is left-handed, and ordinary scissors work against their grip.",
+   "box": "hands",
+   "sources": [
+    25,
+    34,
+    0
+   ]
+  },
+  {
+   "year": 1967,
+   "date": "1967",
+   "era": "modern",
+   "art": "scissors",
+   "key": true,
+   "title": "The orange-handled scissors",
+   "who": "Olof Bäckström and Fiskars",
+   "where": "Fiskars, Finland",
+   "country": "Finland",
+   "text": "Fiskars began as an ironworks in 1649 and opened Finland's first cutlery mill in 1832. In 1967 its designer Olof Bäckström gave scissors light, curved plastic handles, which Fiskars calls the world's first. The trial pairs came out orange because that plastic was left in the machine from making juicers. Staff then voted on the colour, and orange beat black by 9 votes to 7. Fiskars says more than a billion pairs have been sold, and 'Fiskars Orange' became a trademark in Finland in 2003 and in the USA in 2007.",
+   "why": "Thin stamped steel blades with moulded handles made good scissors light, comfortable and cheap.",
+   "box": "anatomy",
+   "sources": [
+    19,
+    18,
+    33,
+    34
+   ]
+  },
+  {
+   "year": 2015,
+   "date": "25 March 2015 (applied 12 December 2012)",
+   "era": "modern",
+   "art": "trophy",
+   "key": true,
+   "title": "Meerut scissors win a GI tag",
+   "who": "Meerut Scissor Manufacturers",
+   "where": "Meerut, Uttar Pradesh, India",
+   "country": "India",
+   "text": "Meerut's makers applied for a Geographical Indication on 12 December 2012 (application 389). News reports in January 2013 said the tag had been won, and many pages still give 2013, but the registry shows the certificate, number 218, was issued on 25 March 2015. The blades are forged from scrap carbon steel from old cars, buses, trucks and railways. Handles are cast from melted-down utensils with brass. About 250 small units make them, and reports say the trade supports some 70,000 people.",
+   "why": "Only scissors made in Meerut can now carry the name, which helps a recycling craft compete with cheap imports.",
+   "box": "shear",
+   "sources": [
+    36,
+    37,
+    35,
+    38
+   ]
+  },
+  {
+   "year": 2018,
+   "date": "2018",
+   "era": "modern",
+   "art": "wrench",
+   "title": "Sheffield's hand-made scissors are saved",
+   "who": "Ernest Wright; Paul Jacobs and Jan-Bart Fanoy",
+   "where": "Sheffield, England",
+   "country": "United Kingdom",
+   "text": "Ernest Wright, a Sheffield scissor maker founded in 1902, went into receivership in 2018. Two businessmen, Paul Jacobs and Jan-Bart Fanoy, bought it and rehired the staff. Its craftsmen are called 'putters', short for putter-togetherers: they fit, set and adjust each pair by hand. In 2020 the firm won an award for endangered crafts.",
+   "why": "Setting two blades so they meet at one moving point is a hand skill that nearly died out in Britain.",
+   "box": "set",
+   "sources": [
+    39,
+    0
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "Oldest kind of scissors: spring shears from one bent strip",
+   "value": "Bronze Age (often said c. 1500 BCE; not firmly dated)",
+   "who": "Southwest Asia and Egypt"
+  },
+  {
+   "label": "Earliest shears found in Europe",
+   "value": "Early 4th century BCE",
+   "who": "Mediterranean world, then La Tène Celts"
+  },
+  {
+   "label": "Scissor maker still trading under its founding name",
+   "value": "1663 (brand said to date from 1628)",
+   "who": "Zhang Xiaoquan, Hangzhou, China"
+  },
+  {
+   "label": "First scissors of hardened, polished cast steel",
+   "value": "1761",
+   "who": "Robert Hinchliffe, Sheffield, England"
+  },
+  {
+   "label": "First recorded left-handed scissors",
+   "value": "c. 1760s",
+   "who": "Robert Hinchliffe, made for his own use"
+  },
+  {
+   "label": "Secateurs",
+   "value": "c. 1814 to 1818 (credited)",
+   "who": "Bertrand de Molleville, France"
+  },
+  {
+   "label": "US patent for pinking shears",
+   "value": "3 January 1893",
+   "who": "Louise Austin, Whatcom, Washington"
+  },
+  {
+   "label": "First stainless steel",
+   "value": "13 August 1913",
+   "who": "Harry Brearley, Sheffield, England"
+  },
+  {
+   "label": "First plastic-handled scissors (maker's claim)",
+   "value": "1967",
+   "who": "Olof Bäckström, Fiskars, Finland"
+  }
+ ],
+ "people": [
+  {
+   "name": "Mei Shakoku",
+   "life": "active c. 13th century",
+   "role": "Merchant",
+   "from": "China and Japan",
+   "note": "By Hakata tradition, moved from Southern Song China and brought the scissors that became Hakata hasami."
+  },
+  {
+   "name": "Asli Akhun",
+   "life": "active c. 1653 (tradition)",
+   "role": "Blacksmith",
+   "from": "India",
+   "note": "Named in local tradition as the maker of the first Meerut scissors."
+  },
+  {
+   "name": "Zhang Xiaoquan",
+   "life": "active 17th century",
+   "role": "Scissor maker",
+   "from": "China",
+   "note": "Built his father's scissor trade into the Hangzhou shop that still carries his name."
+  },
+  {
+   "name": "Benjamin Huntsman",
+   "life": "1704 – 1776",
+   "role": "Clockmaker and steel maker",
+   "from": "England",
+   "note": "Melted steel in clay crucibles to make the even 'cast steel' that fine scissors needed."
+  },
+  {
+   "name": "Robert Hinchliffe",
+   "life": "died 1802",
+   "role": "Scissor maker",
+   "from": "England",
+   "note": "Made the first hardened, polished cast-steel scissors in 1761, and left-handed scissors for himself."
+  },
+  {
+   "name": "Louise Austin",
+   "life": "active 1892 to 1893",
+   "role": "Inventor",
+   "from": "USA",
+   "note": "Patented pinking shears with matching toothed blades in 1893."
+  },
+  {
+   "name": "Harry Brearley",
+   "life": "1871 – 1948",
+   "role": "Metallurgist",
+   "from": "England",
+   "note": "Found that steel with about 13% chromium resists rust, and saw at once that it suited cutlery."
+  },
+  {
+   "name": "Félix Flisch",
+   "life": "born 1914",
+   "role": "Engineer and founder of Felco",
+   "from": "Switzerland",
+   "note": "Redesigned secateurs with aluminium handles and parts that can be replaced."
+  },
+  {
+   "name": "Olof Bäckström",
+   "life": "1922 – 1998",
+   "role": "Industrial designer",
+   "from": "Finland",
+   "note": "Designed the orange plastic-handled Fiskars scissors of 1967. He had wanted them black."
+  }
+ ],
+ "series": [],
+ "facts": [
+  "The 'sc' in scissors is a mistake. The word comes from Latin cisoria, 'cutting tool'. Writers in the 16th century added the 'sc' because they confused it with scissor, Latin for a tailor.",
+  "A scissor blade is much blunter than a knife. One sharpener patent says scissor edges are usually ground at about 70 degrees to the flat inner face, while knife edges total 25 to 50 degrees. Scissors cut by two edges sliding past each other, not by one thin wedge.",
+  "Fiskars scissors are orange because of juicers. The test pairs were moulded in orange plastic left in the machine, and staff then chose orange over black by 9 votes to 7.",
+  "In Meerut they say 'Dada le, potaa barpe': bought by the grandfather, still used by the grandson. The blades are forged from scrap steel from old vehicles and railways.",
+  "Around 1840, hundreds of French vineyard workers marched against secateurs. They feared the new tool would take their work and bruise the vines.",
+  "Scissor steel is usually hardened to about 54 to 62 on the Rockwell C scale, and one guide calls 58 to 60 ideal for shears."
+ ],
+ "sources": [
+  {
+   "title": "Scissors",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scissors"
+  },
+  {
+   "title": "Scissors",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/technology/scissors"
+  },
+  {
+   "title": "Shears",
+   "publisher": "Textile Research Centre, Leiden",
+   "url": "https://trc-leiden.nl/trc-needles/tools/cutting/shears"
+  },
+  {
+   "title": "Shears, Roman (object 59.94/71)",
+   "publisher": "London Museum",
+   "url": "https://londonmuseum.org.uk/collections/v/object-9258/shears"
+  },
+  {
+   "title": "Shears, Roman period, said to be from Trebizond (Trabzon)",
+   "publisher": "The Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/art/collection/search/547870"
+  },
+  {
+   "title": "Andrei Georgescu, study of shears in La Tène graves (Analele Banatului, 2020)",
+   "publisher": "Analele Banatului, National Museum of Banat",
+   "url": "https://analelebanatului.ro/en/view-article/9/"
+  },
+  {
+   "title": "Leonardo da Vinci inventions and studies that changed the world",
+   "publisher": "ZME Science",
+   "url": "https://zmescience.com/feature-post/5-things-leonardo-da-vinci-did-to-change-the-world"
+  },
+  {
+   "title": "A Short History of Scissors",
+   "publisher": "So Sew Easy",
+   "url": "https://so-sew-easy.com/short-history-of-scissors/"
+  },
+  {
+   "title": "Hakata Hasami: scissors as sharp as a samurai sword",
+   "publisher": "Fukuoka Now",
+   "url": "https://www.fukuoka-now.com/hakata-hasami-scissors-as-sharp-as-a-samurai-sword/"
+  },
+  {
+   "title": "Zhang Xiaoquan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Zhang_Xiaoquan"
+  },
+  {
+   "title": "Company of Cutlers in Hallamshire",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Company_of_Cutlers_in_Hallamshire"
+  },
+  {
+   "title": "Zwilling J. A. Henckels",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Zwilling_J._A._Henckels"
+  },
+  {
+   "title": "Benjamin Huntsman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Benjamin_Huntsman"
+  },
+  {
+   "title": "Robert Hinchcliffe",
+   "publisher": "Grace's Guide to British Industrial History",
+   "url": "https://www.gracesguide.co.uk/Robert_Hinchcliffe"
+  },
+  {
+   "title": "Left handed (forum thread quoting an early Sheffield history on Hinchcliffe)",
+   "publisher": "Sheffield History",
+   "url": "https://www.sheffieldhistory.co.uk/forums/topic/2348-left-handed/"
+  },
+  {
+   "title": "William Whiteley and Sons",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/William_Whiteley_and_Sons"
+  },
+  {
+   "title": "Pruning shears",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pruning_shears"
+  },
+  {
+   "title": "Secateurs",
+   "publisher": "The Gardens Trust",
+   "url": "https://thegardenstrust.org/history-hub/secateurs/"
+  },
+  {
+   "title": "Fiskars",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fiskars"
+  },
+  {
+   "title": "Heritage",
+   "publisher": "Fiskars Group",
+   "url": "https://www.fiskarsgroup.com/about-us/heritage"
+  },
+  {
+   "title": "Timeline of the Wiss Family Businesses: 1848-1976",
+   "publisher": "jwissandsons.com",
+   "url": "https://jwissandsons.com/timeline.htm"
+  },
+  {
+   "title": "J. Wiss & Sons Company Records (finding aid)",
+   "publisher": "Smithsonian, National Museum of American History Archives Center",
+   "url": "https://sirismm.si.edu/EADpdfs/NMAH.AC.0172.pdf"
+  },
+  {
+   "title": "Pinking shears",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pinking_shears"
+  },
+  {
+   "title": "US Patent 489,406: Pinking-shears (Louise Austin, 3 January 1893)",
+   "publisher": "Google Patents",
+   "url": "https://patents.google.com/patent/US489406A/en"
+  },
+  {
+   "title": "US Patent 1,965,443: Pinking shears (Wyner and Schulz, assigned to Samuel Briskman, 3 July 1934)",
+   "publisher": "Google Patents",
+   "url": "https://patents.google.com/patent/US1965443A/en"
+  },
+  {
+   "title": "Pinking Shear Patents assigned to Samuel Briskman",
+   "publisher": "jwissandsons.com",
+   "url": "https://jwissandsons.com/patents/pinking-shears.htm"
+  },
+  {
+   "title": "Tokyo Uchihamono (hand-forged blades)",
+   "publisher": "Tokyo Metropolitan Government, Traditional Crafts of Tokyo",
+   "url": "https://www.dento-tokyo.metro.tokyo.lg.jp/english/items/29.html"
+  },
+  {
+   "title": "Harry Brearley",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Harry_Brearley"
+  },
+  {
+   "title": "Snips",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Snips"
+  },
+  {
+   "title": "Company history",
+   "publisher": "Felco",
+   "url": "https://felco.com/pages/company-history"
+  },
+  {
+   "title": "Mayo scissors",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mayo_scissors"
+  },
+  {
+   "title": "Metzenbaum scissors",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metzenbaum_scissors"
+  },
+  {
+   "title": "Hair-cutting shears",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hair-cutting_shears"
+  },
+  {
+   "title": "A Cut Above the Rest: How Finland's Orange-Handled Scissors Inspired a Design Revolution",
+   "publisher": "Mental Floss",
+   "url": "https://mentalfloss.com/article/507438/cut-above-rest-how-finlands-orange-handled-scissors-inspired-design-revolution"
+  },
+  {
+   "title": "Heritage (Fiskars brand)",
+   "publisher": "Fiskars",
+   "url": "https://www.fiskars.com/en-us/about/heritage"
+  },
+  {
+   "title": "Meerut scissors",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Meerut_scissors"
+  },
+  {
+   "title": "GI Application 389: Meerut Scissors",
+   "publisher": "Geographical Indications Registry, Government of India",
+   "url": "https://search.ipindia.gov.in/GIRPublicSearch/Application/Details/389"
+  },
+  {
+   "title": "Correction: Meerut Scissors GI still in 'New Application' status (26 January 2013)",
+   "publisher": "SpicyIP",
+   "url": "https://spicyip.com/2013/01/correction-meerut-scissors-gi-still-in.html"
+  },
+  {
+   "title": "Top cut: inside the scissors bazaar in Meerut, India",
+   "publisher": "The National",
+   "url": "https://www.thenationalnews.com/lifestyle/2022/04/09/top-cut-inside-the-scissors-bazaar-in-meerut-india/"
+  },
+  {
+   "title": "Ernest Wright (scissors maker)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ernest_Wright_(scissors_maker)"
+  },
+  {
+   "title": "scissors (n.)",
+   "publisher": "Online Etymology Dictionary",
+   "url": "https://www.etymonline.com/word/scissors"
+  },
+  {
+   "title": "US Patent 6,997,795: Versatile manual scissor sharpener (Edgecraft, 2006)",
+   "publisher": "Google Patents",
+   "url": "https://patents.google.com/patent/US6997795"
+  },
+  {
+   "title": "Hair Shears Steel Hardness: Steel Types Comparison",
+   "publisher": "Scissor Tech",
+   "url": "https://scissortec.com/blogs/news/hair-shears-steel-hardness-steel-types-comparison"
+  }
+ ]
+}
